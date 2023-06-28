@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lW1aZZ0KHdKvMndJwvrYkAWd1LJW2PmGtnW//oTpjQaUMuDASw5HBsRhfrhrdrS/O04wylARs+39m1lkh15pqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\Cancelacion\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
